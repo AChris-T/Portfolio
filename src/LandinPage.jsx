@@ -26,37 +26,37 @@ const LandinPage = () => {
       </div>
       <div className='flex flex-wrap items-center justify-center gap-6'>
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project} alt='project' className=' object-contain rounded-md '/>
           <a href='https://metagreeninnovations.com/ ' target='_blank' className='px-4 mt-4 font-semibold'> Metagreen Innvotations </a>
           <a href='https://metagreeninnovations.com/ ' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://metagreeninnovations.com/  </a>
         </div>
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project1} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project1} alt='project' className=' object-contain  rounded-md '/>
           <a href='https://superoagrobase.com/' target='_blank' className='px-4 mt-4 font-semibold'> Supero Incorporation Limited </a>
           <a href='https://superoagrobase.com/' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://superoagrobase.com/ </a>
         </div>
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project2} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project2} alt='project' className=' object-contain rounded-md '/>
           <a href='https://www.ayodejianifowose.com/' target='_blank' className='px-4 mt-4 font-semibold'>Pastor Ayodeji Anifowose</a>
           <a href='https://www.ayodejianifowose.com/' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://www.ayodejianifowose.com/   </a>
         </div>
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project3} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project3} alt='project' className=' object-contain rounded-md '/>
           <a href='https://samuelayinde.com/' target='_blank' className='px-4 mt-4 font-semibold'>Pastor Samuel Ayinde </a>
           <a href='https://samuelayinde.com/' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://samuelayinde.com/ </a>
         </div>
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project4} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project4} alt='project' className=' object-contain rounded-md '/>
           <a href='https://www.omojolagbegeriaticcare.org/' target='_blank' className='px-4 mt-4 font-bold text-[14px] '> Omojolagbe Geriatric Care Foundation </a>
           <a href='https://www.omojolagbegeriaticcare.org/' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://www.omojolagbegeriaticcare.org/  </a>
         </div>
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project5} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project5} alt='project' className=' object-contain rounded-md '/>
           <a href='https://petigrity.com/' target='_blank' className='px-4 mt-4 font-semibold'>Petigrity Konsult </a>
           <a href='https://petigrity.com/' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://petigrity.com/ </a>
         </div>       
         <div className='w-[300px] flex flex-col justify-start items-start pb-4  rounded-md bg-white border border-sky-950 text-[black]'>
-          <img src={project6} alt='project' className='w-full h-[250px] rounded-md '/>
+          <img src={project6} alt='project' className=' object-contain rounded-md '/>
           <a href='https://shopoakstore.com/ ' target='_blank' className='px-4 mt-4 font-semibold'> The Shop Oak Store   </a>
           <a href='https://shopoakstore.com/ ' target='_blank' className='px-4 mt-5 text-sm text-[#13bbff]'>https://shopoakstore.com/   </a>
         </div>
